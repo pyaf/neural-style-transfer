@@ -20,6 +20,6 @@ Download pretrained VGG19 model from [here](http://www.vlfeat.org/matconvnet/mod
 
 ### References
 
-- Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, (2015). A Neural Algorithm of Artistic Style (https://arxiv.org/abs/1508.06576) 
-- Convolutional Neural Networks course by deeplearning.ai at Coursera (https://www.coursera.org/learn/convolutional-neural-networks/)
+- Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, (2015). [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) 
+- Convolutional Neural Networks course by deeplearning.ai at Coursera [[link](https://www.coursera.org/learn/convolutional-neural-networks/)]
 - MatConvNet. (http://www.vlfeat.org/matconvnet/pretrained/)
