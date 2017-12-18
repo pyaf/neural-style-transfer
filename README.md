@@ -1,6 +1,4 @@
 # Neural Style Transfer
-[![HitCount](http://hits.dwyl.io/rishabhiitbhu/neural-style-transfer.svg)](http://hits.dwyl.io/rishabhiitbhu/neural-style-transfer)
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](/LICENSE)
 
 TensorFlow implementation of `Neural Style Transfer` using pretrained VGG19 model.
 
